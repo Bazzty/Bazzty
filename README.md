@@ -1,6 +1,6 @@
-# ¡Hola! Soy Bastian 👋
+# ¡Hola! Me llamo Bastian (Basti) 👋
 
-Soy estudiante de 5to año de Ingeniería y Desarrollador de Software. Actualmente combino mis últimos años de estudio con experiencia real trabajando part-time en el desarrollo de sistemas web.
+Soy estudiante de 5to año de Ingeniería civil informatica y Desarrollador de Software. Actualmente combino mis últimos años de estudio con experiencia real trabajando part-time en el desarrollo de sistemas web.
 
 Me enfoco en crear soluciones eficientes, escalables y orientadas a la experiencia del usuario. El flujo de desarrollo moderno (con IA y nuevas herramientas) me ha enseñado a priorizar la arquitectura y la resolución de problemas por encima de solo escribir código.
 

@@ -22,6 +22,6 @@ Me enfoco en crear soluciones eficientes, escalables y orientadas a la experienc
 
 ### 🚀 Sobre mí
 - 🔭 Trabajo actualmente como Ing. en software Trainee **.
-- 🌱 Aprendiendo sobre: Front-End, Docker, Ciencia de datos
+- 🌱 Aprendiendo sobre: Front-End, Docker, Ciencia de datos.
 - 💡 Mi enfoque: Construir software que resuelva problemas reales de negocio aprendiendo siempre.
 

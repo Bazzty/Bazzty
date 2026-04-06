@@ -1,4 +1,4 @@
-# ¡Hola! Me llamo Bastian (Basti) 👋
+# ¡Hola! Soy Bastian (Basti) 👋
 
 Soy estudiante de 5to año de Ingeniería civil informatica y Desarrollador de Software. Actualmente combino mis últimos años de estudio con experiencia real trabajando part-time en el desarrollo de sistemas web.
 

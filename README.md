@@ -12,7 +12,7 @@ Me enfoco en crear soluciones eficientes, escalables y orientadas a la experienc
   
 
 **Frontend:**
-- JavaScript / Alpine.js
+- JavaScript
 - Tailwind CSS / HTML5
 - Vite
 

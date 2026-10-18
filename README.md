@@ -1,27 +1,27 @@
-# ¡Hola! Soy Bastian (Basti) 👋
+Hi! I’m Bastian (Basti) 👋
 
-Soy estudiante de 5to año de Ingeniería civil informatica y Desarrollador de Software. Actualmente combino mis últimos años de estudio con experiencia real trabajando part-time en el desarrollo de sistemas web.
+I’m a 5th-year Computer Science Engineering student and Software Developer. I’m currently combining my final years of study with real-world experience working part-time on web systems development.
 
-Me enfoco en crear soluciones eficientes, escalables y orientadas a la experiencia del usuario. El flujo de desarrollo moderno (con IA y nuevas herramientas) me ha enseñado a priorizar la arquitectura y la resolución de problemas por encima de solo escribir código.
+I focus on building efficient, scalable solutions oriented toward user experience. The modern development workflow (with AI and new tools) has taught me to prioritize architecture and problem-solving over just writing code.
 
-### 💻 Stack Tecnológico
-**Backend:**
-- PHP / Laravel 
-- Bases de Datos Relacionales (MySQL)
-- Python
-  
+💻 Tech Stack
 
-**Frontend:**
-- JavaScript
-- Tailwind CSS / HTML5
-- Vite
+Backend:
 
-**Herramientas y Entorno:**
-- Git & GitHub
-- Docker / Entornos de desarrollo locales
+PHP / Laravel
+Relational Databases (MySQL)
+Python
 
-### 🚀 Sobre mí
+Frontend:
 
-- 🌱 Aprendiendo sobre: Front-End, Docker, Ciencia de datos.
-- 💡 Mi enfoque: Construir software que resuelva problemas reales de negocio aprendiendo siempre.
+JavaScript
+Tailwind CSS / HTML5
+Vite
 
+Tools & Environment:
+
+Git & GitHub
+Docker / Local development environments
+🚀 About Me
+🌱 Currently learning: Front-End, Docker, Data Science.
+💡 My approach: Building software that solves real business problems while always learning.
